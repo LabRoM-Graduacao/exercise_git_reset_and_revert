@@ -3,4 +3,5 @@ num2 = float(input("Insira outro número: "))
 
 result = num1 / num2
 
-print(f"A divisão dos números são {result}")
+print(f"A divisão dos números são:
+       {result}")
